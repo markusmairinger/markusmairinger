@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markusmairinger
-- 👀 I’m interested in web development, fish and regenerative agriculture, ...
+- 👀 Rural digital which means I’m interested in web development, fish and regenerative agriculture, ...
 - 🌱 I’m learning every day 
 - 📫 Check my website to contact me.
 
